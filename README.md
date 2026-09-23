@@ -2,7 +2,7 @@
 
 ### A passionate Web developer
 
-- 👨‍💻 All of my projects are available at **[izanatxega.es(https://izaniatxega.es)]**
+- 👨‍💻 All of my projects are available at **[www.izaniatxega.es](https://izaniatxega.es)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
